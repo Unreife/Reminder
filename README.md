@@ -1,8 +1,10 @@
-# Reminder
-Its basically reminding you the orders the have 2 days before delivery. 
+Reminder
+This application reminds you of orders 2 days before delivery.
 
-You have to change the gui.py file to set the smtp.
+Setup Instructions:
 
-There is some required libraries you can see that in gui file as well.
+Open the gui.py file and configure the SMTP settings.
 
-and you have to install python 3.x
+Check the required libraries listed in gui.py and install them.
+
+Install Python 3.x on your system.
